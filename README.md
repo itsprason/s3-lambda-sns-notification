@@ -18,7 +18,7 @@ This project demonstrates an AWS Lambda function that gets triggered when an obj
 2. Navigate to the project directory:
     
 ```bash
-cd s3-lambda-function
+cd s3-lambda-sns-notification
 ```
 
 Execute the shell script to set up the AWS resources and deploy the Lambda function:
